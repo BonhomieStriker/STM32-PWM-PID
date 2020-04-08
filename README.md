@@ -1,2 +1,2 @@
-# STM32-PWN-PID
+# STM32-PWM-PID
 just for backup
